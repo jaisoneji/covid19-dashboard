@@ -5,7 +5,7 @@
     <img src="https://img.icons8.com/nolan/64/coronavirus.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Project Nane</h3>
+  <h3 align="center">vue-salisation</h3>
 
   <p align="center">
     description 
@@ -79,7 +79,7 @@ https://www.amcharts.com/docs/v4/getting-started/integrations/using-vue-js/
 3. Axios Installation
 ```sh
 npm i -g axios
-*[Axios](https://github.com/axios/axios)
+[Axios](https://github.com/axios/axios)
 ```
 
 
@@ -88,12 +88,10 @@ _View more installation options [name](link)_
 <!-- USAGE EXAMPLES -->
 ### Usage
 
-Start App
+*Start App
 
 npm install
-npm run serve
-
-*Commands to run the project localy*
+npm run serve*
 _For more examples, please refer to the [Documentation](link)_
 
 
