@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="logo_path" alt="Logo" width="80" height="80">
+    <img src="https://img.icons8.com/nolan/64/coronavirus.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Project Nane</h3>
@@ -50,9 +50,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-About your Project 
+This is a covid19 dashboard for India made using public APIs.
 
 ### Built With
+ This project is made using Vuejs Framework
 
 * [name](link_here)
 
