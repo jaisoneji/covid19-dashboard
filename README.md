@@ -55,7 +55,11 @@ This is a covid19 dashboard for India made using public APIs.
 ### Built With
  This project is made using Vuejs Framework
 
-* [name](link_here)
+* [Vuejs](https://vuejs.org/)
+* [Javascript](https://www.javascript.com/)
+* [amcharts](https://www.amcharts.com/)
+* [TailwindCSS](https://www.tailwindcss.com/)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
