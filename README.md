@@ -9,22 +9,22 @@
 
   <p align="center">
     description 
-    <a href="link"> View Demo </a>
+    <a href="covid19.jaisoneji.me"> View Demo </a>
      <br />
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     ·
-    <a href="https://github.com/jaisoneji/covid19-dashboard/issues/new?title=Bug%20Report">Report Bug</a>
+    <a href="https://github.com/jaisoneji/vue-salisation/issues/new?title=Bug%20Report">Report Bug</a>
     ·
-    <a href="https://github.com/jaisoneji/covid19-dashboard/issues/new?title=Feature%20Request">Request Feature</a>
+    <a href="https://github.com/jaisoneji/vue-salisation/issues/new?title=Feature%20Request">Request Feature</a>
 
   </p>
 <p align="center">
 <a href="LICENSE_LINK">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="LICENSE">
 </a>
-<a href="https://github.com/jaisoneji/covid19-dashboard/issues">
+<a href="https://github.com/jaisoneji/vue-salisation/issues">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome">
 </a>
 <a href="#">
@@ -88,10 +88,11 @@ _View more installation options [name](link)_
 <!-- USAGE EXAMPLES -->
 ### Usage
 
-*Start App
+Start App
 
+``` sh
 npm install
-npm run serve*
+npm run serve```
 _For more examples, please refer to the [Documentation](link)_
 
 
@@ -120,4 +121,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Name - [@linkedin_handle](https://www.linkedin.com/in/jai-soneji) - jai.soneji@gmail.com
+
 [Twitter](https://twitter.com/jaisoneji?lang=en)
