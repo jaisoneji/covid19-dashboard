@@ -70,13 +70,28 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone link
+git clone https://github.com/jaisoneji/vue-salisation
 ```
+2. amcharts installation
+```sh
+https://www.amcharts.com/docs/v4/getting-started/integrations/using-vue-js/
+```
+3. Axios Installation
+```sh
+npm i -g axios
+*[Axios](https://github.com/axios/axios)
+```
+
 
 _View more installation options [name](link)_
 
 <!-- USAGE EXAMPLES -->
 ### Usage
+
+Start App
+
+npm install
+npm run serve
 
 *Commands to run the project localy*
 _For more examples, please refer to the [Documentation](link)_
@@ -106,5 +121,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Name - [@linkedin_handle](https://www.linkedin.com/in/) - gmail
-social handler
+Name - [@linkedin_handle](https://www.linkedin.com/in/jai-soneji) - jai.soneji@gmail.com
+[Twitter](https://twitter.com/jaisoneji?lang=en)
