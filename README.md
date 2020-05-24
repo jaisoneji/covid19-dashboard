@@ -92,7 +92,8 @@ Start App
 
 ``` sh
 npm install
-npm run serve```
+npm run serve
+```
 _For more examples, please refer to the [Documentation](link)_
 
 
